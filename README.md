@@ -14,7 +14,7 @@ Interesuję się wykorzystaniem programowania i analizy danych do rozwiązywania
 ## 🛠️ Technologie
 - Python
 - JavaScript
-- SQL
+- SQL i NoSQL
 
 ---
 
